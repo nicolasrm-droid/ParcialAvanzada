@@ -1,3 +1,8 @@
+/**
+ * @author Nicolas Rojas  , Adriana
+ *
+ */ 
+
 import java.util.Scanner;
 
 public class Ejercicio5 {
