@@ -1,5 +1,5 @@
 /**
- * @author Nicolas Rojas , Adriana
+ * @author Nicolas Rojas , Adriana Anzola
  *
  */ 
 
