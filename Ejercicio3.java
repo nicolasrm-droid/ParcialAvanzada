@@ -1,3 +1,9 @@
+/**
+ * @author Nicolas Rojas  , Adriana
+ *
+ */ 
+
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
